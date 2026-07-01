@@ -2,7 +2,7 @@
 
 
 
-## :star: About Me:
+## :star: About Me
 Network Professional making my move into Cloud & DevOps Engineering.<br><br>I've spent 6.5+ years keeping production networks alive, troubleshooting in the trenches, managing incidents, and making sure things stay running. Now I'm channeling that same mindset into the cloud world, building real projects and automating everything I can.<br><br>:small_orange_diamond: Currently deep-diving into Git, GitHub, and modern DevOps workflows
 <br>:small_orange_diamond: Passionate about bridging traditional infrastructure with cloud-native practices
 <br>:small_orange_diamond: Always up to connect with folks in the Cloud, DevOps, and Infrastructure space<br><br>
