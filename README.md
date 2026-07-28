@@ -2,14 +2,14 @@
 <h3 align="center">Network Professional making my move into Cloud & DevOps Engineering 🌐➡️☁️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=4%2B+Years+in+Network+Infrastructure;Now+Building+in+Cloud+%26+DevOps;Azure+DevOps+%7C+Kubernetes+%7C+Terraform;Automating+Everything+I+Can+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=5%2B+Years+in+Network+Infrastructure;Now+Building+in+Cloud+%26+DevOps;Azure+DevOps+%7C+Kubernetes+%7C+Terraform;Automating+Everything+I+Can+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### ⭐ About Me
 
-I've spent 4+ years keeping production networks alive - troubleshooting in the trenches, managing incidents, and making sure things stay running. Now I'm channeling that same mindset into the cloud world, building real projects and automating everything I can.
+I've spent 5+ years keeping production networks alive - troubleshooting in the trenches, managing incidents, and making sure things stay running. Now I'm channeling that same mindset into the cloud world, building real projects and automating everything I can.
 
 - 🔭 Currently deep-diving into **Git, GitHub, and modern DevOps workflows**
 - 🌉 Passionate about **bridging traditional infrastructure with cloud-native practices**
